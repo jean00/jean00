@@ -9,3 +9,6 @@ There are going to be simple projects and also difficult projects.
 
 Your welcome here, thanks for coming and checking out my progresses.
 
+Best projects:
+- WeatherApp:
+
