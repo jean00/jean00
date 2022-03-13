@@ -10,5 +10,6 @@ There are going to be simple projects and also difficult projects.
 Your welcome here, thanks for coming and checking out my progresses.
 
 Best projects:
-- WeatherApp:
-
+- [WeatherApp](https://github.com/jean00/WeatherApp)
+- [Todolist](https://github.com/jean00/todolist)
+- [CvApplication](https://github.com/jean00/cvApplication)
