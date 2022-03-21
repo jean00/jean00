@@ -37,8 +37,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jean-louis-mosquera-escobar-6632b71ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jeanlouis433@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/jean-louis-mosquera-escobar-6632b71ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jean%20Louis%20Mosquera%20Escobar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jeanlouis433@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeanlouis433@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Jean](https://github.com/jean00)
