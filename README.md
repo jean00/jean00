@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Web development, in particular front-end development.
-- 💼 &nbsp; Currenty looking for a job in Web development field.
+- 💼 &nbsp; Currenty working as JavaScript developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
